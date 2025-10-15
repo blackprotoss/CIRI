@@ -11,3 +11,17 @@ We will provide the download link and decompression password once your applicati
 
 All users must adhere to all usage conditions; failure to do so will result in the revocation of authorization.
 
+
+
+
+## Citation
+
+  ```
+@inproceedings{zhu2024ciri,
+  title={Reproducing the past: A dataset for benchmarking inscription restoration},
+  author={Zhu, Shipeng and Xue, Hui and Nie, Na and Zhu, Chenjie and  Liu, Haiyue and Fang, Pengfei},
+  booktitle={Proceedings of the ACM International Conference on Multimedia},
+  pages={7714-7723},
+  year={2024}
+}
+  ```
